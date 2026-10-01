@@ -33,7 +33,6 @@
 | [checklist-functional.md](./checklist-functional.md) | Функциональный чек-лист (избранные проверки + ссылка на полный) |
 | [checklist-regression.md](./checklist-regression.md) | Регрессионный чек-лист мобильных особенностей |
 | [bug-reports.md](./bug-reports.md) | Баг-репорты (избранные + сводка всех 26) |
-| [report.md](./report.md) | Отчёт о тестировании |
 
 ---
 
