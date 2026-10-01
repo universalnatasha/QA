@@ -110,5 +110,5 @@
 
 ## 🔗 Ссылки
 
-- - [Функциональный и регрессионный чек-листы (Google-таблица)](https://docs.google.com/spreadsheets/d/1qgvYO9binRsMgnxQGCbLekcomLw7RF8KtRu6fst_hGs/edit?usp=sharing)
+- [Функциональный и регрессионный чек-листы (Google-таблица)](https://docs.google.com/spreadsheets/d/1qgvYO9binRsMgnxQGCbLekcomLw7RF8KtRu6fst_hGs/edit?usp=sharing)
 - [Все 26 баг-репортов (Google-таблица)](https://docs.google.com/spreadsheets/d/1PFIcZ1q4iolFkzSmbsBpo4_o4VkL-vi1QIYkbSGP9iQ/edit?usp=sharing)
